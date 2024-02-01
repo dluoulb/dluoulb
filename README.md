@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <p style="color:DodgerBlue;">Harry Pitt</p></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:DodgerBlue;">Harry Pitt</span></h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
