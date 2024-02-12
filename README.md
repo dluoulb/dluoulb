@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm <span style="color:DodgerBlue;">Harry Pitt</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:DodgerBlue;">Steven Valdez</span></h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
 
-- 📫 How to reach me **hungryc7@outlook.com**
+- 📫 How to reach me **s7evenv7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
