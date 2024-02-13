@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:DodgerBlue;">Steven Valdez</span></h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
