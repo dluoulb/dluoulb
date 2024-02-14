@@ -2,9 +2,6 @@
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
 
-
-- 📫 How to reach me **s7evenv7@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
